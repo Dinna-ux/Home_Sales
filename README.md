@@ -64,5 +64,5 @@ To run the notebook, follow these steps:
 5. **Partitioning:**
     - Partition the data by the "date_built" field and run queries on the partitioned data.
 
-## Acknoledgements
+## Acknowledgements
 edX Boot Camps LLC for providing the datasets
