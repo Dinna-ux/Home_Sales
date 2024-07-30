@@ -40,7 +40,7 @@ To run the notebook, follow these steps:
 1. Clone the repository
   
 
-2. Open the `Home_Sales.ipynb` notebook in jupyter lab or as a colab file and run the cells to perform the analysis.
+2. Open the `Home_Sales.ipynb` notebook and run the cells to perform the analysis.
 
 ## Project Structure
 ## Tasks
